@@ -1,4 +1,4 @@
-## Fourier Convolutional Neural Network
+# Fourier Convolutional Neural Network
 
 **Xulin Chen**
 
@@ -6,31 +6,31 @@ A Pytorch implementation of Fourier Convolutional Neural Network.
 
 
 
-#### Requirements
+## Requirements
 
 `pip install -r requirements.txt`
 
 
 
-#### Run the code
+## Run the code
 
 `python -u main.py`
 
 
 
-#### Result
+## Result
 
 ![](./experiment.PNG)
 
 
 
-#### Problem
+## Problem
 
 My implementation is not perfect so the running time of Fourier convolution is much longer than expected.
 
 
 
-#### Reference
+## Reference
 
 [1] [Pratt, Harry, et al. "Fcnn: Fourier convolutional neural networks." *Joint European Conference on Machine Learning and Knowledge Discovery in Databases*. Springer, Cham, 2017.](http://ecmlpkdd2017.ijs.si/papers/paperID11.pdf)
 
