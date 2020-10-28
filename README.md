@@ -20,7 +20,7 @@ A Pytorch implementation of Fourier Convolutional Neural Network.
 
 #### Result
 
-![](.\experiment.PNG)
+![](./experiment.PNG)
 
 
 
